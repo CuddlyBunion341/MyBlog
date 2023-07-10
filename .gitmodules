@@ -1,0 +1,6 @@
+[submodule "blog-app"]
+	path = blog-app
+	url = https://github.com/CuddlyBunion341/blog-app.git
+[submodule "blog-api"]
+	path = blog-api
+	url = https://github.com/CuddlyBunion341/blog-api.git
