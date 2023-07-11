@@ -14,6 +14,18 @@ MyBlog is currently under development, and the following features are planned fo
 
 As development progresses, additional features may be added based on user feedback and requirements.
 
+## Cloning the Repository
+To clone the MyBlog repository and initialize its submodules, follow these steps:
+1. Open your terminal or command prompt.
+2. Change to the directory where you want to clone the repository.
+3. Execute the following command:
+
+   `git clone --recurse-submodules https://github.com/CuddlyBunion341/MyBlog.git`
+   
+   _The `--recursive` flag ensures that the submodules are also cloned and initialized during the cloning process._
+
+4. Change into the API and APP directories and folow their instructions respectively
+
 ## API
 
 The MyBlog application includes a separate backend API built using Ruby on Rails. The API handles data storage, retrieval, and business logic. The source code for the API can be found in the following location:
