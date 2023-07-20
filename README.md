@@ -30,7 +30,8 @@ To clone the MyBlog repository and initialize its submodules, follow these steps
 
 The MyBlog application includes a separate backend API built using Ruby on Rails. The API handles data storage, retrieval, and business logic. The source code for the API can be found in the following location:
 
-[Blog Backend](/blog-api/)
+[Public Repository](https://github.com/CuddlyBunion341/blog-api.git)\
+[Local Directory](/blog-api/)
 
 The backend API provides endpoints for various operations, such as user registration, authentication, creating and retrieving blog posts, managing comments, and handling tag/category information.
 
@@ -38,6 +39,7 @@ The backend API provides endpoints for various operations, such as user registra
 
 The MyBlog application also includes a frontend built using Angular. The frontend provides a user-friendly interface for interacting with the blogging application. The source code for the frontend can be found in the following location:
 
-[Blog Frontend](/blog-app/)
+[Public Repository](https://github.com/CuddlyBunion341/blog-app.git)\
+[Local Directory](/blog-app/)
 
 The frontend is responsible for rendering the blog posts, displaying user profiles, facilitating user interactions (such as commenting), and providing an intuitive browsing experience. It communicates with the backend API to fetch and update data.
